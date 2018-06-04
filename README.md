@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ## How to train on own dataset
 
-* Download [**pretrained weight folder**](https://drive.google.com/file/d/1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-/view) past into repo. folder.
+* Download [**pretrained weight folder**](https://drive.google.com/drive/folders/1nOI0xOUQ4qm-mwgSUykbuMhXaU0j0RWJ?usp=sharing) past into repo. folder.
 * Create **datasets** folder in same repo. folder.
 * put images(Your sown dataset) in classes-wise(name-wise) folder.
 
